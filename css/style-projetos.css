@@ -1,0 +1,17 @@
+main{
+	display: grid;
+	grid-template-columns: auto auto auto;
+}
+aside{
+	background-color: blueviolet;
+	width: 600px;
+	height: 300px;
+	margin: auto;
+	margin-top: 35%;
+	border-radius: 15px;
+	padding: 10px;
+}
+h1{
+	text-align: center;
+	margin-top: 10px;
+}
