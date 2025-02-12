@@ -4,6 +4,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+body{
+  overflow: hidden;
+}
 header {
   background-color: blueviolet;
   width: 100%;
@@ -39,7 +42,7 @@ footer {
   height: 30px;
   text-align: center;
 }
-p {
+footer p {
   line-height: 30px;
   color: white;
 }

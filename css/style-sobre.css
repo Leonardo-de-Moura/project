@@ -1,0 +1,20 @@
+aside{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 170%);
+    width: 600px;
+    height: 200px;
+	border-radius: 15px;
+	padding: 10px;
+	background-color: blueviolet;
+}
+aside h2{
+	text-align: center;
+	font-size: 1.8rem;
+	padding: 10px;
+	transition: background-color 1s ease-in-out;
+}
+aside:hover{
+	background-color: rgb(109, 78, 137);
+}
