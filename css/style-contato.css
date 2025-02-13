@@ -1,6 +1,6 @@
 form {
 	position: relative;
-	background-color: blueviolet;
+	background-color: #4D4747;
 	top: 100px;
 	padding: 20px;
 	border-radius: 8px;
@@ -29,7 +29,7 @@ button {
 	justify-content: center;
 	align-items: center;
 	top: 30px;
-	background-color: violet;
+	background-color: rgb(115, 117, 116);
 	width: 100%;
 	height: 60px;
 	color: white;
@@ -40,7 +40,7 @@ button {
 	color: black;
 }
 button:hover{
-	background-color: rgb(52, 12, 52);
+	background-color: rgb(51, 50, 51);
 	color: white;
 }
 
