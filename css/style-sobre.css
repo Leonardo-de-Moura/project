@@ -7,8 +7,7 @@ aside {
   height: 200px;
   border-radius: 15px;
   padding: 10px;
-  background-color: rgb(77, 71, 71);
-  color: white;
+  background-color: blueviolet;
 }
 aside h2 {
   text-align: center;
@@ -17,7 +16,7 @@ aside h2 {
   transition: background-color 1s ease-in-out;
 }
 aside:hover {
-  background-color: rgb(171, 160, 160);
+  background-color: rgb(109, 78, 137);
 }
 
 @media (max-width: 620px) {

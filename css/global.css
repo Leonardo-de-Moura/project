@@ -8,7 +8,7 @@ body{
   overflow: hidden;
 }
 header {
-  background-color: rgb(77, 71, 71);
+  background-color: blueviolet;
   width: 100%;
 }
 
@@ -24,12 +24,6 @@ nav ul {
   display: flex;
   justify-content: space-between;
 }
- nav ul img{
-  width: 60px;
-  height: 60px;
-  margin-block: auto;
-  border-radius: 50%;
-}
 nav ul li {
   list-style-type: none;
   float: inline-end;
@@ -41,7 +35,7 @@ nav ul li a {
   color: white;
 }
 footer {
-  background-color: rgb(77, 71, 71);
+  background-color: blueviolet;
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -51,9 +45,4 @@ footer {
 footer p {
   line-height: 30px;
   color: white;
-}
-footer p a{
-  color: white;
-  text-decoration: none;
-  padding-left: 5px;
 }
